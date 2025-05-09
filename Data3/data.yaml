@@ -1,0 +1,13 @@
+train: '/content/drive/MyDrive/3002/Data/train'
+val: '/content/drive/MyDrive/3002/Data3/valid'
+test: '/content/drive/MyDrive/3002/Data3/test'
+
+nc: 5
+names: ['Gun', 'Knife', 'Pliers', 'Scissors', 'Wrench']
+
+roboflow:
+  workspace: ford-ez5dh
+  project: sixray-uu8u5
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/ford-ez5dh/sixray-uu8u5/dataset/1
