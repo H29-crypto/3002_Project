@@ -21,9 +21,9 @@ This project detects **five types of weapons** in X-ray images using a combinati
   - Scissors
   - Wrench  
 - **Custom split**:
-  - Train: 350 images
-  - Validation: 100 images
-  - Test: 50 images
+  - Train: 497 images
+  - Validation: 105 images
+  - Test: 105 images
 
 ---
 
